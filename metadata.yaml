@@ -1,5 +1,8 @@
 _repo: Set-Down-in-Malice-A-Book-of-Reminiscences_61437
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 61437-h/images/cover.jpg
 creator:
   author:
     agent_name: Cumberland, Gerald
@@ -11,6 +14,8 @@ creator:
     - http://www.gutenberg.org/ebooks/author/49459
     - https://en.wikipedia.org/wiki/Gerald_Cumberland
 description: Gerald Cumberland is the pseudonym of Charles Frederick Kenyon.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61437#Set-Down-in-Malice-A-Book-of-Reminiscences
 gutenberg_issued: '2020-02-18'
 gutenberg_type: Text
 identifiers:
