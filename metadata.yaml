@@ -1,0 +1,51 @@
+_repo: Set-Down-in-Malice-A-Book-of-Reminiscences_61437
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Cumberland, Gerald
+    birthdate: 1879
+    deathdate: 1926
+    gutenberg_agent_id: '50877'
+    url: http://www.gutenberg.org/2009/agents/50877
+    wikipedia:
+    - http://www.gutenberg.org/ebooks/author/49459
+    - https://en.wikipedia.org/wiki/Gerald_Cumberland
+description: Gerald Cumberland is the pseudonym of Charles Frederick Kenyon.
+gutenberg_issued: '2020-02-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61437'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Musicians -- Great Britain -- Biography'
+- !lcsh 'Great Britain -- Intellectual life'
+- !lcc 'PR'
+- !lcsh 'Kenyon, C. Fred (Charles Frederick), 1879-1926'
+- !lcsh 'Authors, English -- 20th century -- Biography'
+- GITenberg
+tableOfContents: 'Mr George Bernard Shaw -- Miscellaneous: Mrs Annie Besant; Mr Marcus
+  Stone; Mr Lloyd George; Bishop Welldon; Dr Walford Davies -- Mr Frank Harris --
+  Miscellaneous: Madame Yvette Guilbert; Sir Victor Horsley; Mrs Pankhurst; Mr Jacob
+  Epstein; Madame Aïno Ackté -- Mr Stanley Houghton and Mr Harold Brighouse -- Some
+  writers: Mr Arnold Bennett; Mr G. K. Chesterton; Mr Lascelles Abercrombie; Mr Harold
+  Monro; Mr John Masefield; Mr Jerome K. Jerome; Sir Owen Seaman; Mr A. A. Milne --
+  Sir Edward Elgar -- Intellectual freaks -- Fleet Street -- Mr Hall Caine -- More
+  writers: Rev. T. E. Brown; Mr A. R. Orage; Mr Norman Angell; Mr St John Ervine;
+  Mr Charles Marriott; Mr Max Beerbohm; Mr Israel Zangwill; Mr Alphonse Courlander;
+  Mr Ivan Heald; Mr Dixon Scott; Mr Barry Pain; Mr Cunninghame Graham -- Musical critis
+  -- Manchester people -- Chelsea and Mr Augustus John -- Miscellaneous: Mr Arthur
+  Henderson, M.P.; Lord Derby; Miss Elizabeth Robins; Mr Frank Mullings; Mr Harold
+  Bauer; Mr Emil Sauer; Mr Vladimir de Pachmann -- Cathedral musical festivals --
+  People of the theatre: Sir Herbert Tree; Mr Gordon Craig; Mr Henry Arthur Jones;
+  Mr Temple Thurston; Miss Janet Achurch; Miss Horniman -- Berlin and some of its
+  people -- Some musicians: Edvard Grieg; Sir Frederick H. Cowen; Dr Hans Richter;
+  Sir Thomas Beecham; Sir Charles Santley; Mr Landon Ronald; Mr Frederic Austin --
+  Two Chelsea rags, 1914 and 1918 -- More musicians: Professor Granville Bantock;
+  Mr Frederick Delius; Mr Joseph Holbrooke; Dr Walford Davies; Dr Vaughan Williams;
+  Dr W. G. McNaught; Mr Julius Harrison; Mr Rutland Boughton; Mr John Coates; Mr Cyril
+  Scott -- People I would like to meet -- Night clubs.'
+title: 'Set Down in Malice: A Book of Reminiscences'
+url: http://www.gutenberg.org/ebooks/61437
